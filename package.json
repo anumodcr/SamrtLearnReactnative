@@ -1,0 +1,49 @@
+{
+  "name": "ckeditor-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-decoupled-document": "^20.0.0",
+    "@ckeditor/ckeditor5-ckfinder": "^20.0.0",
+    "@ckeditor/ckeditor5-editor-decoupled": "^20.0.0",
+    "@ckeditor/ckeditor5-image": "^20.0.0",
+    "@ckeditor/ckeditor5-react": "^2.1.0",
+    "@ckeditor/ckeditor5-theme-lark": "^20.0.0",
+    "@react-pdf/renderer": "^1.6.10",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@wiris/mathtype-ckeditor5": "^7.21.0",
+    "ckeditor4-react": "^1.1.1",
+    "faker": "^4.1.0",
+    "html2canvas": "^1.0.0-rc.5",
+    "interactjs": "^1.9.20",
+    "moment": "^2.27.0",
+    "randomcolor": "^0.5.4",
+    "react": "^16.13.1",
+    "react-calendar-timeline": "^0.26.7",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
